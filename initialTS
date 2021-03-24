@@ -23,7 +23,6 @@
       'utm_medium': 'utmcmd',
       'utm_campaign': 'utmccn',
       'utm_content': 'utmcct',
-      'utm_term': 'utmctr',
       'gclid': 'utmgclid',
       'dclid': 'utmdclid'
     };
